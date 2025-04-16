@@ -364,3 +364,11 @@ ML-For-Beginners.Rproj
 .env
 .venv
 venv
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/MarsCodeWorkspaceAppSettings.xml
+/.idea/misc.xml
+/.idea/ML-For-Beginners.iml
+/.idea/modules.xml
+/.idea/vcs.xml
